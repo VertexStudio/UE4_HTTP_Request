@@ -6,8 +6,9 @@
 /NAME:"UE4Editor-JSONQuery.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Stefan\Documents\Unreal Projects\JSONQueryProject\Intermediate\Build\Win64\JSONQueryProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\Stefan\Documents\Unreal Projects\JSONQueryProject\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.cpp.obj"
-"C:\Users\Stefan\Documents\Unreal Projects\JSONQueryProject\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.gen.cpp.obj"
-"C:\Users\Stefan\Documents\Unreal Projects\JSONQueryProject\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\PCLaunch.rc.res"
-/OUT:"C:\Users\Stefan\Documents\Unreal Projects\JSONQueryProject\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\UE4Editor-JSONQuery.lib"
+"D:\Bryan Tope de 250 gb\UE4_Projects\RequestTest\Intermediate\Build\Win64\RequestTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Bryan Tope de 250 gb\UE4_Projects\RequestTest\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.cpp.obj"
+"D:\Bryan Tope de 250 gb\UE4_Projects\RequestTest\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Module.JSONQuery.gen.cpp.obj"
+"D:\Bryan Tope de 250 gb\UE4_Projects\RequestTest\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\Default.rc2.res"
+/OUT:"D:\Bryan Tope de 250 gb\UE4_Projects\RequestTest\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\JSONQuery\UE4Editor-JSONQuery.lib"
+/INCLUDE:IMPLEMENT_MODULE_JSONQuery

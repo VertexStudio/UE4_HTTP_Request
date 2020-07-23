@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -22,10 +22,11 @@ void EmptyLinkFunctionForGeneratedCodeJSONQuery_init() {}
 			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/JSONQuery",
+				SingletonFuncArray,
+				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xE45E799D,
-				0x256E069E,
-				SingletonFuncArray, ARRAY_COUNT(SingletonFuncArray),
+				0x2A537569,
+				0x8424D94A,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

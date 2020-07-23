@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.JSONQuery.cpp.obj": [
+			"jsonfielddata.cpp.obj",
+			"JSONQueryModule.cpp.obj"
+		],
+		"Module.JSONQuery.gen.cpp.obj": [
+			"JsonFieldData.gen.cpp.obj",
+			"JSONQuery.init.gen.cpp.obj"
+		]
+	}
+}
