@@ -8,6 +8,16 @@ Easy-to-use Blueprint system for posting and reading JSON data
 2) Delete the Binaries and Intermediate folder
 3) When prompted, rebuild the JSONQuery project
 4) Enjoy!
+# Usage
+
+![](Assets/RequestBP.JPG)
+
+![](Assets/GetResult.JPG)
+
+## Post and get the data sended from the API
+
+![](Assets/Post-Get.JPG)
+
 # Special thanks:
 RVillani, Zakkar, Kheka, conneich, Patrik2991, Quantum & johnbo (Unreal forums)
 # Support:
